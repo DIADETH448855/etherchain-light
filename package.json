@@ -12,7 +12,7 @@
     "body-parser": "~1.16.0",
     "cookie-parser": "~1.4.3",
     "debug": "~2.6.0",
-    "ethereumjs-abi": "git+https://github.com/gobitfly/ethereumjs-abi.git",
+    "ethereumjs-abi": "git+https://github.com/DIADETH448855/ethereumjs-abi.git",
     "ethereumjs-util": "^5.1.1",
     "express": "~4.14.1",
     "leveldown": "^4.0.1",
@@ -25,7 +25,7 @@
     "solc": "^0.4.9",
     "string-similarity": "^1.1.0",
     "tmp": "0.0.31",
-    "web3": "git+https://github.com/gobitfly/web3.js.git#develop",
+    "web3": "git+https://github.com/DIADETH448855/web3.js.git#develop",
     "yargs": "^7.0.1"
   }
 }
