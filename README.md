@@ -9,7 +9,7 @@ git branch -M master
 git remote adauga origine https://github.com/DIADETH448855/Etherchain-light.git
  git push -u origin master
 
-#git remote adaugă originea https://github.com/DIADETH448855/Etnerchain-light.git
+#git remote adaugă originea https://github.com/DIADETH448855/Etherchain-light.git
  git branch -M master 
 git push -u origin master
 
